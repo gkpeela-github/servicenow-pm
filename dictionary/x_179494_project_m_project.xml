@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Project" max_length="40" name="x_179494_project_m_project" type="collection">
+        <element label="Actual End Date" max_length="50" name="actual_end_date" type="string"/>
+        <element label="Actual Start Date" max_length="50" name="actual_start_date" type="string"/>
+        <element label="ID" max_length="50" name="id" type="string"/>
+        <element label="Planned End Date" max_length="50" name="planned_end_date" type="string"/>
+        <element label="Planned Start Date" max_length="50" name="planned_start_date" type="string"/>
+        <element display="true" label="Project Description" max_length="50" name="project_description" type="string"/>
+        <element label="Project Name" max_length="50" name="project_name" type="string"/>
+    </element>
+</database>

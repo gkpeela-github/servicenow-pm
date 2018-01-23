@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Activity" max_length="40" name="x_179494_project_m_activity" type="collection">
+        <element label="Activity ID" max_length="50" name="activity_id" type="string"/>
+        <element label="Activity Name" max_length="50" name="activity_name" type="string"/>
+        <element display="true" label="Actual Budget" max_length="50" name="actual_budget" type="string"/>
+        <element label="Actual End Time" max_length="50" name="actual_end_time" type="string"/>
+        <element label="Actual Start Time" max_length="50" name="actual_start_time" type="string"/>
+        <element label="Description" max_length="50" name="description" type="string"/>
+        <element label="Planned Budget" max_length="50" name="planned_budget" type="string"/>
+        <element label="Planned end date" max_length="50" name="planned_end_date" type="string"/>
+        <element label="planned start date" max_length="50" name="planned_start_date" type="string"/>
+        <element label="Priority" max_length="50" name="priority" type="string"/>
+        <element label="Task ID" max_length="50" name="task_id" type="string"/>
+    </element>
+</database>

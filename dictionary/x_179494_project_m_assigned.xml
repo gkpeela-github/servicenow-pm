@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Assigned" max_length="40" name="x_179494_project_m_assigned" type="collection">
+        <element label="Activity ID" max_length="50" name="activity_id" type="string"/>
+        <element label="Assigned ID" max_length="50" name="assigned_id" type="string"/>
+        <element label="Employee ID" max_length="50" name="employee_id" type="string"/>
+        <element display="true" label="Role ID" max_length="50" name="role_id" type="string"/>
+    </element>
+</database>

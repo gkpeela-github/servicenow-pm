@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Project Manager" max_length="40" name="x_179494_project_m_project_manager" type="collection">
+        <element label="ID" max_length="50" name="id" type="string"/>
+        <element label="Project ID" max_length="50" name="project_id" type="string"/>
+        <element display="true" label="User Account ID" max_length="50" name="user_account_id" type="string"/>
+    </element>
+</database>

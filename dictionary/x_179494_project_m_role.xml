@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Role" max_length="40" name="x_179494_project_m_role" type="collection">
+        <element label="Role ID" max_length="50" name="role_id" type="string"/>
+        <element display="true" label="Role Name" max_length="50" name="role_name" type="string"/>
+    </element>
+</database>

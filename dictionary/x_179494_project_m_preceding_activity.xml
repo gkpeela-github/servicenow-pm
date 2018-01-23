@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Preceding Activity" max_length="40" name="x_179494_project_m_preceding_activity" type="collection">
+        <element label="Activity ID" max_length="50" name="activity_id" type="string"/>
+        <element label="ID" max_length="50" name="id" type="string"/>
+        <element display="true" label="Preceding Activity ID" max_length="50" name="preceding_activity_id" type="string"/>
+    </element>
+</database>

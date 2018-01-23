@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Team Member" max_length="40" name="x_179494_project_m_team_member" type="collection">
+        <element label="Employee ID" max_length="50" name="employee_id" type="string"/>
+        <element display="true" label="Role ID" max_length="50" name="role_id" type="string"/>
+        <element label="Team ID" max_length="50" name="team_id" type="string"/>
+        <element label="Team Member ID" max_length="50" name="team_member_id" type="string"/>
+    </element>
+</database>

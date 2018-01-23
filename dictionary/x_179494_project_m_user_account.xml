@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element attributes="update_synch=true" extends="sys_metadata" label="User_Account" max_length="40" name="x_179494_project_m_user_account" type="collection">
+        <element label="Email" max_length="50" name="email" type="string"/>
+        <element label="First Name" max_length="50" name="first_name" type="string"/>
+        <element label="Is project manager" max_length="3" name="is_project_manager" type="string"/>
+        <element label="Last Name" max_length="50" name="last_name" type="string"/>
+        <element label="Password" max_length="50" name="password" type="string"/>
+        <element display="true" label="Registration time" max_length="50" name="registration_time" type="string"/>
+        <element label="User ID" max_length="20" name="user_id" type="string"/>
+        <element label="User Name" max_length="50" name="user_name" type="string"/>
+    </element>
+</database>

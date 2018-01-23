@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-01-10 11:26:06</sys_created_on>
+        <sys_id>ec9c308e0f230300cf3e8e8ce1050ed1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_179494_project_m_project_manager.x_179494_project_m.project_manager_user</sys_name>
+        <sys_package display_value="Project Management" source="x_179494_project_m">5795bba10f230300cf3e8e8ce1050e97</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Project Management">5795bba10f230300cf3e8e8ce1050e97</sys_scope>
+        <sys_security_acl display_value="x_179494_project_m_project_manager">e49c308e0f230300cf3e8e8ce1050ecf</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_ec9c308e0f230300cf3e8e8ce1050ed1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-01-10 11:26:06</sys_updated_on>
+        <sys_user_role display_value="x_179494_project_m.project_manager_user" name="x_179494_project_m.project_manager_user">6c9cb84e0f230300cf3e8e8ce1050ee8</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

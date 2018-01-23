@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="On Project" max_length="40" name="x_179494_project_m_on_project" type="collection">
+        <element label="Client Partner ID" max_length="50" name="client_partner_id" type="string"/>
+        <element display="true" label="Description" max_length="125" name="description" type="string"/>
+        <element label="End Date" max_length="50" name="end_date" type="string"/>
+        <element label="ID" max_length="50" name="id" type="string"/>
+        <element label="Is Client" max_length="50" name="is_client" type="string"/>
+        <element label="Is Partner" max_length="50" name="is_partner" type="string"/>
+        <element label="Project ID" max_length="50" name="project_id" type="string"/>
+        <element label="Start Date" max_length="50" name="start_date" type="string"/>
+    </element>
+</database>

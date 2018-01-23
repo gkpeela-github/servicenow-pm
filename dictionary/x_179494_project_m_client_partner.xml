@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Client Partner" max_length="40" name="x_179494_project_m_client_partner" type="collection">
+        <element label="Cp Address" max_length="100" name="cp_address" type="string"/>
+        <element display="true" label="Cp Details" max_length="125" name="cp_details" type="string"/>
+        <element label="Cp Name" max_length="50" name="cp_name" type="string"/>
+        <element label="ID" max_length="50" name="id" type="string"/>
+    </element>
+</database>
